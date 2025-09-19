@@ -1,2 +1,2 @@
 # azure-bicep-modules
-📦 Collection de modules Bicep prêts à l’emploi pour déployer des ressources Azure (VM, réseau, stockage, sécurité, gouvernance). Open source et gratuit
+📦 Collection of ready-to-use Bicep modules for deploying Azure resources (VM, network, storage, security, governance). Open source and free
